@@ -16,4 +16,12 @@
         <shortDescription>test label 2</shortDescription>
         <value>test</value>
     </labels>
+    <labels>
+        <fullName>test_label_3</fullName>
+        <categories>test</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>test label 3</shortDescription>
+        <value>test label 3</value>
+    </labels>
 </CustomLabels>
